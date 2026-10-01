@@ -14,7 +14,8 @@ Each truism is identified as `Domain.Truism` (e.g., `5.3` is Domain 5, truism 3)
 - **Haley Lowy / SingularityNET** — MeTTaSoul Center Spine v2.0, from which this ontology derives
 - **Michael Sean Case** — Neo-Pragmatic Framework for Multi-Agent Adversarial Alignment
 - **Ben Goertzel (SingularityNET / OpenCog Hyperon)** — HyperClaw proposal and broader architectural vision
-- **Travis** — prompted truisms 16.8–16.9 on the comprehension of suffering
+- **Matthew Iklé**
+- **Trevor Buteau** — prompted truisms 16.8–16.9 on the comprehension of suffering
 - Developed with assistance from Claude (Anthropic)
 - Informed by the spirit of John Perry Barlow
 
